@@ -1,0 +1,35 @@
+	Searching for "prowly" on google.com, filtering by content category (everything, video, news, etc.).
+1.	Open a web browser.	The browser has been opened.
+
+2.	Go to google.com.	The google.com website is displayed
+
+3.	Enter the word 'prowly' in the search box. Click the 'search' button.	Results for the word 'prowly' have been retrieved.
+
+4.	Once the results are displayed, select the 'Everything' category.	Images and page records are displayed.Make sure that the results only display in the selected category.
+
+5.	Select the "Video" category.	Videos are displayed.Make sure the results only display videos in the selected category.
+
+6.	Select the "Photos" category.	Videos are displayed.Make sure the results only display videos in the selected category.
+
+	Searching for the word "prowly" on google.com with filtering by date.
+
+1.	Open a web browser.	The browser has been opened.
+
+2.	Go to google.com.	The google.com website is displayed
+
+3.	Enter the word 'prowly' in the search box. Click the 'search' button.	Results for the word 'prowly' have been retrieved.
+
+4.	In the right corner, below the search engine, select "Tools" or "Search tools" and select the "Date" tab.	A list with options to choose from will unfold.
+5.	Select a specific date range, for example "Last year".	The searches on the page have changed. 
+6.	Ensure that the results are filtered by the selected date.	The filtered results are by the selected date.
+	
+1.	Open a web browser.	The browser has been opened.
+
+2.	Go to google.com.	The google.com website is displayed
+
+3.	Enter the word 'prowly' in the search box. Click the 'search' button.	Results for the word 'prowly' have been retrieved.
+
+4.	In the right corner, below the search engine, select "Tools" or "Search tools" and select the "Location" tab.	A list with options to choose from will unfold.
+5.	Select a specific date range, for example " Poland ".	The searches on the page have changed. 
+6.	Ensure that the results are filtered by the selected location.	The filtered results are by the selected date.
+
